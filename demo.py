@@ -53,8 +53,8 @@ if __name__ == '__main__':
 
     # What does `args` object "look" like?
     print(
-        "The args after being processed by the argparse parser object:\n",
-        args)
+            "The args after being processed by the argparse parser object:\n",
+            args)
 
     # We access the arguments specified on the command line (or the default
     # values if they were not used) by using `args.` syntax.
